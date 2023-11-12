@@ -57,3 +57,6 @@ INSERT INTO OrderDetails (order_id, product_id, quantity, total_price) VALUES
 (8, 8, 2, 500.000),
 (9, 9, 0, 0),
 (10, 10, 1, 1.000.000);
+
+
+--ini untuk pembuatan data pada tabel

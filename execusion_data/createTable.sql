@@ -35,3 +35,8 @@ CREATE TABLE OrderDetails (
     FOREIGN KEY (order_id) REFERENCES Orders(order_id),
     FOREIGN KEY (product_id) REFERENCES Products(product_id)
 );
+
+--pembuatan Tabel
+
+jangan lupa untuk
+mysql: SHOW TABLES;
